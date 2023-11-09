@@ -1,5 +1,5 @@
 ## Top
-# DAWG Board Version History
+# FOGHORN Board Version History
 
 
 
@@ -7,8 +7,8 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
-
+### ESP8266 NodeMCU Expansion Board**
+FOGHORN is a board crafted for seamless integration with ESP8266 NodeMCU V3 modules. With dimensions of 76mm x 86mm, its installation is made simple with two screw holes. This board features female headers for DHT sensor integration and GPIO pin testing, providing an adaptable solution. Additionally, it allows for flexible power options, supporting 5VDC or 12VDC through terminal blocks.
 📚 Check out the different board versions below:
 
 ## Version
