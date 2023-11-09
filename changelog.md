@@ -1,6 +1,5 @@
 ## Top
-# 🎉 Changelog for DAWG AC Relay Driver Board
-
+# 🎉 Changelog for FOGHORN
 ### ◀️ [Back](/)
 
 ## [1.0.0] - 2023-11-06
