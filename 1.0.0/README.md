@@ -1,5 +1,5 @@
 ## Top
-# 🎉 FOGHORN - ESP8266 NodeMCU v3 -Compatible Expansion Board v1.0.0
+# 🎉 FOGHORN - ESP8266 NodeMCU v3 Compatible Expansion Board v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
