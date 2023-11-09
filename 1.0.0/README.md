@@ -1,5 +1,5 @@
 ## Top
-# 🎉 DAWG AC Relay Driver Board v1.0.0
+# 🎉 FOGHORN - ESP8266 NodeMCU v3 -Compatible Expansion Board v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
@@ -19,21 +19,19 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
+FOGHORN is a specialized RAIL DIN board designed for seamless integration with ESP8266 NodeMCU v3 modules. Measuring 76mm x 86mm, this board features two screw holes with 25mm center to center apart, making installation easy. Equipped with 2 rows of 15-pin female headers, it simplifies the mounting of NodeMCU V3 modules.
 
-## Features
+The board boasts a 5-pin female header, offering the flexibility to integrate a DHT sensor into projects. With 5 terminal screw blocks and male/female headers mapped to GROUND, GPIO pins 4, 5, 12, and 14, users can assign and utilize these pins as output pins for their projects. Additionally, a 10-pin two-row female header allows quick LED testing of the 4, 5, 12, and 14 GPIO pins, facilitating hassle-free functionality checks without complicated wiring.
 
-- **Relay Control:** This feature simplifies the process of controlling mechanical and solid-state relays, enabling you to manage higher voltage loads with ease.
+The inclusion of a 2-pin male and female header mapped to the A0 analog pin of the ESP module simplifies the connection of analog sensors without jumper wires. With two terminal blocks supporting 5VDC or 12VDC power options for the board and ESP module, this board provides a versatile solution for electronics projects.
 
-- **Versatility:** The board is designed to drive HV relay switches, encompassing both mechanical and solid-state options, making it adaptable to a wide range of applications.
-
-- **Ease of Integration:** The board ensures easy integration through user-friendly terminal screw blocks, connectors, and pin headers configurations.
-
-- **DIN Rail Support:** DIN RAIL compatibility enables seamless mounting in standard 35mm DIN RAIL enclosures. This feature ensures that your projects have a professional and sturdy appearance and can be effortlessly integrated into existing distribution panels.
-
-- **Comprehensive Documentation:** Access comprehensive documentation to swiftly get started and leverage the full potential of your relay driver.
-
-
+### Features
+- Compatible with ESP8266 NodeMCU V3 modules for seamless integration.
+- Includes female headers for DHT sensor integration.
+- Terminal blocks and male/female headers mapped to GROUND, GPIO pins for user flexibility.
+- 10-pin female header for LED testing of GPIO pins, enabling easy functionality checks.
+- 2-pin header for simplified connection of analog sensors to the A0 pin.
+- Dual power options (5VDC/12VDC) for versatile project requirements.
 
 [🔝 Top](#top)
 
