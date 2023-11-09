@@ -37,7 +37,12 @@ The inclusion of a 2-pin male and female header mapped to the A0 analog pin of t
 
 ## Things you need to know
 
-NA
+### FOGHORN - ESP8266 NodeMCU-Compatible Expansion Board
+- **Module Compatibility:** Designed specifically for seamless integration with ESP8266 NodeMCU V3 modules.
+- **Header Pinouts:** Familiarize yourself with the specific pin mapping and functionalities of the headers for effective utilization.
+- **Power Options:** Select between 5VDC and 12VDC power options for both the board and ESP module as required.
+- **Additional Sensor Integration:** Utilize the provided female headers for integrating a DHT sensor for expanded functionalities.
+- **LED Testing:** Use the designated 10-pin female header for hassle-free LED testing without complex wiring.
 
 [🔝 Top](#top)
 
